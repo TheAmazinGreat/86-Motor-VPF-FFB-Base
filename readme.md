@@ -3,6 +3,8 @@ See originial Gadroc design for credits and design change history. This version 
 
 I've included a second option for a gimbal to be printed in several pieces without supports. This gimbal is experimental and if there are concerns about strength, I recommend printing Gadroc's gimbal or one of the orignal protomaker/Mabo designs. 
 
+Power wires currently feed through the left panel and leave an XT60 connector dangling to allow for connection, future release mat see this mounted in the panel. 
+
 # Credits
 Original authors are listed below:
 
@@ -11,13 +13,16 @@ Original authors are listed below:
 * [protomaker](https://github.com/protomaker964/Rhino-FFB-Clone-3D_Printed) - Modification for 3D printing and refinements
 * [Gadroc](https://github.com/Gadroc/vpforce-ffb-joystick) - Basis for modifications
 
-# Open Items
-* Throw limiter has been included for 15 deg all directions, can be modified using the files from the VPF discord. 
-* Boot clamp has not been tested yet. Design changes may be necessary. (No change from Gadroc)
-* Update BOM for minor hardware, screws, etc. Most of the hardware should be the same as the original Gadroc design, the major difference will be quantities and M6 bolts for mounting the 86 motors. 
+# To be done:
+* 15 deg throw limiter in CAD file is optional. Export STLs if you want it or create a different throw limiter using the tool on the VFP discord.
+* Boot clamp has not been tested yet. Design changes may be necessary. (No change from Gadroc, removed STLs but it is in the CAD file)
+* Update BOM for minor hardware, screws, etc. Most of the hardware should be the same as the original Gadroc design, the major difference will be quantities and M6 bolts for mounting the 86 motors.
+* Export STLs for the TAG gimbal.
+* Add CAD step files.
+* 
 
 # CAD
-Fusion file only in CAD folder.
+Fusion file only in CAD folder for now.
 
 # Printed Parts
 All STLs should be checked for best orientation in the slicer to minimize supports. I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
@@ -31,14 +36,15 @@ All STLs should be checked for best orientation in the slicer to minimize suppor
 | ext_bearing_retainer_x3| 3 | None | Exterior Bearing Retainers |
 | int_bearing_retainer_x8 | 8 | None | Interior Bearing Retainers |
 | control_mount_retainer | 1 | None | Control Mount / Bearing retainer |
-| case_rear | 1 | None | Rear Case Plate (Roll Drive) |
-| case_right | 1 | None | Right Case Plate (Pitch Drive) |
-| case_mid | 1 | None | Mid Case Plate (Roll Bearing / Control Mount) |
-| case_front | 1 | None | Front Case Plate (Fan) |
-| case_left | 1 | None | Left Case Plate (Pitch Bearing) |
-| case_top | 1 | None | Case Top Plate |
-| case_bottom | 1 | None | Bottom Case Plate |
+| 86 Rear Panel | 1 | None | Rear Case Plate (Roll Drive) |
+| 86 Right Panel | 1 | None | Right Case Plate (Pitch Drive) |
+| 86 Mid Panel | 1 | None | Mid Case Plate (Roll Bearing / Control Mount) |
+| 86 Front Panel | 1 | None | Front Case Plate (Fan) |
+| 86 Left Panel | 1 | None | Left Case Plate (Pitch Bearing) |
+| 86 Top Panel | 1 | None | Case Top Plate |
+| 86 Base Plate | 1 | None | Bottom Case Plate |
 | pulley_gimbal | 1 | 72 Tooth Gimbal Pulley |
+| USB Bracket | 1 | Holds USB in place on Left Panel |
 
 
 # BOM
