@@ -1,5 +1,5 @@
 # VPForce Joystick
-See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and may of the same other parts. Panels are not interchangeable due to the larger motor size
+See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and may of the same other parts. Panels are not interchangeable due to the larger motor size. Panels should be able to be printed on any 3D printer with a bed size equivalent to an Ender3 or larger. 
 
 I've included a second option for a gimbal to be printed in several pieces without supports. This gimbal is experimental and if there are concerns about strength, I recommend printing Gadroc's gimbal or one of the orignal protomaker/Mabo designs. 
 
@@ -25,7 +25,7 @@ Original authors are listed below:
 Fusion file only in CAD folder for now.
 
 # Printed Parts
-All STLs should be checked for best orientation in the slicer to minimize supports. I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
+All STLs should be checked for best orientation in the slicer to minimize supports. Placing the long edge of the case plates in the X direction worked best for my set up.  I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
 
 | File | Qty | Support | Description |
 |------|-----|---------|-------------|
@@ -36,15 +36,15 @@ All STLs should be checked for best orientation in the slicer to minimize suppor
 | ext_bearing_retainer_x3| 3 | None | Exterior Bearing Retainers |
 | int_bearing_retainer_x8 | 8 | None | Interior Bearing Retainers |
 | control_mount_retainer | 1 | None | Control Mount / Bearing retainer |
-| 86 Rear Panel | 1 | None | Rear Case Plate (Roll Drive) |
-| 86 Right Panel | 1 | None | Right Case Plate (Pitch Drive) |
-| 86 Mid Panel | 1 | None | Mid Case Plate (Roll Bearing / Control Mount) |
-| 86 Front Panel | 1 | None | Front Case Plate (Fan) |
-| 86 Left Panel | 1 | None | Left Case Plate (Pitch Bearing) |
-| 86 Top Panel | 1 | None | Case Top Plate |
+| 86 Rear Plate | 1 | None | Rear Case Plate (Roll Drive) |
+| 86 Right Plate | 1 | None | Right Case Plate (Pitch Drive) |
+| 86 Mid Plate | 1 | None | Mid Case Plate (Roll Bearing / Control Mount) |
+| 86 Front Plate | 1 | None | Front Case Plate (Fan) |
+| 86 Left Plate | 1 | None | Left Case Plate (Pitch Bearing) |
+| 86 Top Plate | 1 | None | Case Top Plate |
 | 86 Base Plate | 1 | None | Bottom Case Plate |
 | pulley_gimbal | 1 | 72 Tooth Gimbal Pulley |
-| USB Bracket | 1 | Holds USB in place on Left Panel |
+| USB Bracket | 1 | Holds USB in place on Left Plate |
 
 
 # BOM
