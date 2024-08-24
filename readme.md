@@ -1,9 +1,9 @@
 # VPForce Joystick
-See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and may of the same other parts. Panels are not interchangeable due to the larger motor size. Panels should be able to be printed on any 3D printer with a bed size equivalent to an Ender3 or larger. 
+See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and many of the same other parts. Panels are not interchangeable due to the larger motor size. Panels should be able to be printed on any 3D printer with a bed size equivalent to an Ender3 or larger. 
 
 I've included a second option for a gimbal to be printed in several pieces without supports. This gimbal is experimental and if there are concerns about strength, I recommend printing Gadroc's gimbal or one of the orignal protomaker/Mabo designs. 
 
-Power wires currently feed through the left panel and leave an XT60 connector dangling to allow for connection, future release mat see this mounted in the panel. 
+Power wires currently feed through the left panel and leave an XT60 connector dangling to allow for connection, future release may see this mounted in the panel. 
 
 # Credits
 Original authors are listed below:
