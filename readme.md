@@ -43,8 +43,8 @@ All STLs should be checked for best orientation in the slicer to minimize suppor
 | 86 Left Plate | 1 | None | Left Case Plate (Pitch Bearing) |
 | 86 Top Plate | 1 | None | Case Top Plate |
 | 86 Base Plate | 1 | None | Bottom Case Plate |
-| pulley_gimbal | 1 | 72 Tooth Gimbal Pulley |
-| USB Bracket | 1 | Holds USB in place on Left Plate |
+| pulley_gimbal | 1 | None | 72 Tooth Gimbal Pulley |
+| USB Bracket | 1 | None | Holds USB in place on Left Plate |
 
 
 # BOM
