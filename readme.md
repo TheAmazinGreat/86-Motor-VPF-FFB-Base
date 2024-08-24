@@ -22,7 +22,7 @@ Original authors are listed below:
 * 
 
 # CAD
-Fusion file only in CAD folder for now.
+Fusion file only in CAD folder for now, step files TBD. 57 Series also included as reference in a sub folder. 
 
 # Printed Parts
 All STLs should be checked for best orientation in the slicer to minimize supports. Placing the long edge of the case plates in the X direction worked best for my set up.  I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
