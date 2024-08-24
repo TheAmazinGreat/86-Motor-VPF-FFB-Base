@@ -1,39 +1,26 @@
 # VPForce Joystick
-This is a remake of Mabo's FFB Joystick for 3D printing, with several enhancements from the protomaker's version as well.
+See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and may of the same other parts. Panels are not interchangeable due to the larger motor size
 
-Changes from Mambo's design:
-* The gimbal is redesigned to minimize support material and optimize mating surfaces for fitment.
-* 72 Tooth pulley used for 6:1 gear ratio
-* Shell adjusted for 3D printing
-
-Changes from Protomaker's design:
-* Heat-set threaded inserts are used anywhere where a screw is used to fasten two printed parts.
-* Single pot similar to Rhino
-* No top panel cover
-* Fan grate incorporated into case
-* XT60 connector for power supply
+I've included a second option for a gimbal to be printed in several pieces without supports. This gimbal is experimental and if there are concerns about strength, I recommend printing Gadroc's gimbal or one of the orignal protomaker/Mabo designs. 
 
 # Credits
-This design is nearly zero original work from me. All critical dimensions and ratios came from the original designers. I just cleaned up some CAD work and injected some of my preferences for 3D printing. Original authors are listed below:
+Original authors are listed below:
 
 * [walmis](https://github.com/walmis/FFB-Joystick-Base) - Electronics, firmware, and original base design.
 * [mabo](https://github.com/mabo1972/FFB-Joystick-Base-Plywood) - Expanded base design, including full gimbal.
 * [protomaker](https://github.com/protomaker964/Rhino-FFB-Clone-3D_Printed) - Modification for 3D printing and refinements
+* [Gadroc](https://github.com/Gadroc/vpforce-ffb-joystick) - Basis for modifications
 
 # Open Items
-* I want to create a two-part stick adapter that uses metal tubing to allow people to select their own stick length. (Similar to the official VPRhino design by walmis)
-* No throw limiters (I don't use one so didn't add it). Base has 22 degrees in all directions the same as the Rhino.
-* Boot clamp has not been tested yet. Design changes may be necessary.
-* CAD Still has a control board mount for under the gimbal, but there is not enough space to connect power wires in that location.
-* Stick connector is designed for Thrustmaster replacement parts; I would like to create a version that will work for the [MD-50PL100](https://www.digikey.com/en/products/detail/cui-devices/MD-50PL100/500828). The stick connector from protomaker and mabo should be compatible, but I have not tested this.
-* Optimize for screw types. There are a few places where we could eliminate screw variations (ex: bearing retainers vs case screws).
-* Internal bearing retainer nuts are a pain, especially once motors are installed. Switch them to a captive nut.
+* Throw limiter has been included for 15 deg all directions, can be modified using the files from the VPF discord. 
+* Boot clamp has not been tested yet. Design changes may be necessary. (No change from Gadroc)
+* Update BOM for minor hardware, screws, etc. Most of the hardware should be the same as the original Gadroc design, the major difference will be quantities and M6 bolts for mounting the 86 motors. 
 
 # CAD
-Both STEP and Fusion 360 files can be found in the CAD directory.
+Fusion file only in CAD folder.
 
 # Printed Parts
-All STLs are in print orientation and should be able to be directly inserted and arranged in your slicer. I printed all my parts in polymaker PLA Pro with a .2mm layer height using voron part specs (4 walls and 45% grid infill). Adapt as necessary to your printer and filament.
+All STLs should be checked for best orientation in the slicer to minimize supports. I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
 
 | File | Qty | Support | Description |
 |------|-----|---------|-------------|
@@ -52,14 +39,10 @@ All STLs are in print orientation and should be able to be directly inserted and
 | case_top | 1 | None | Case Top Plate |
 | case_bottom | 1 | None | Bottom Case Plate |
 | pulley_gimbal | 1 | 72 Tooth Gimbal Pulley |
-| pulley_motor | None | 12 Tooth Motor Pulley (Optional if you don't want to buy metal pulley) |
-| jig_center_x2 | 2 | Centering Jig for initial assembly and calibration |
-| boot_clamp_lower | 1 | Lower Boot Clamp |
-| boot_clamp_upper | 1 | Upper Boot Clamp |
-| boot_clamp_ring | 1 | Boot Clamp Ring for Stick Connector |
+
 
 # BOM
-Where possible, all hardware has a McMaster Part # to help indicate correct specifications. When I didn't already have the parts in stock from old projects, I linked my actual source for them in the description.
+Where possible, all hardware has a McMaster Part # to help indicate correct specifications. BOM updated from Gadroc's where known to be different. (Belts, pulleys, motor mounting screws are correct for 86 Motors)
 
 | Qty | McMaster  | Name | Notes |
 |-----|-----------|------|-------|
@@ -79,12 +62,11 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 |  12 | 92095A119 | M3 x 15 Button Head Screw (Stock) | Pulley Bearing Retainer Screws |
 |  12 | 90591A250 | M3 Nut (Stock) | Pulley Bearing Retainer Nuts |
 |   4 | 92095A177 | M3 x 5 Button Head Screws (Stock) | Control Board Screws |
-|   8 |           | [M6 x 15 Slim Socket Head Screw](https://www.amazon.com/dp/B0CK264Y73) | Motor Mounts |
+|   8 |           | [M6 x 20 Slim Socket Head Screw] | Motor Mounts |
 |   2 |           | M2.5 x 10 Flat Head Screw (Stock) | Power Connector Mount |
-|   2 |           | M3 x 6 Grub Screw | Motor Pulley Screw for 3D Printed Pulley |
-|   2 |           | [5M-12T-16W Pulley](https://www.amazon.com/dp/B07R49G8BK) | Motor Pulley - 3D printed version is optional as well |
-|   1 |           | 465mm long HTD 5M-15W Belt | Pitch Belt |
-|   1 |           | 415mm long HTD 5M-15W Belt | Roll Belt |
+|   2 |           | [5M-15T-20W Pulley](https://a.co/d/b9yMcuO) | Motor Pulley |
+|   1 |           | 465mm long HTD 5M-15W Belt | Pitch Belt - 09W more readily available, sub if desired at your own risk |
+|   1 |           | 380mm long HTD 5M-15W Belt | Roll Belt - 09W more readily available, sub if desired at your own risk |
 |   1 |           | 5 Pin Mini Din Connector (Stock)| Stick connector - I used replacement parts from Thrustmaster for a Warthog stick that I bought a long time ago. |
 |   1 |           | [80mm Case Fan](https://www.amazon.com/dp/B00IOIJ4AC) | Parts designed to use standard PC fan screws which are included with this fan. |
 |   1 |           | [E-Stop Switch](https://www.amazon.com/dp/B08B87GJGB) | |
