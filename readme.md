@@ -76,7 +76,7 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 |   1 |           | 5 Pin Mini Din Connector (Stock)| Stick connector - I used replacement parts from Thrustmaster for a Warthog stick that I bought a long time ago. |
 |   1 |           | [80mm Case Fan](https://www.amazon.com/dp/B00IOIJ4AC) | Parts designed to use standard PC fan screws which are included with this fan. |
 |   1 |           | [E-Stop Switch](https://www.amazon.com/dp/B08B87GJGB) | |
-|   1 |           | [10k Type B Linear Potentiometer](https://www.amazon.com/dp/B09897HR3C) |
+|   2 |           | [10k Type B Linear Potentiometer](https://www.amazon.com/dp/B09897HR3C) |
 |   1 |           | [XT60E-M Connector](https://www.amazon.com/dp/B07VV92WZS) | |
 
 # Assembly
