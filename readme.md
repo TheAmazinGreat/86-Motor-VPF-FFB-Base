@@ -67,7 +67,7 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 |  12 | 92095A119 | M3 x 15 Button Head Screw (Stock) | Pulley Bearing Retainer Screws |
 |  12 | 90591A250 | M3 Nut (Stock) | Pulley Bearing Retainer Nuts |
 |   4 | 92095A177 | M3 x 5 Button Head Screws (Stock) | Control Board Screws |
-|   8 |           | [M6 x 20 Socket Head Screw] | Motor Mounts |
+|   8 |           | M6 x 20 Socket Head Screw | Motor Mounts |
 |   2 |           | M2.5 x 10 Flat Head Screw (Stock) | Power Connector Mount |
 |   2 |           | [5M-15T-20W Pulley](https://a.co/d/b9yMcuO) | Motor Pulley |
 |   1 |           | 465mm long HTD 5M-15W Belt | Pitch Belt - 09W more readily available, sub if desired at your own risk |
