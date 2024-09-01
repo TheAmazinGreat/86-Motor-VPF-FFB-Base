@@ -42,7 +42,7 @@ All STLs should be checked for best orientation in the slicer to minimize suppor
 | 86 Left Plate | 1 | None | Left Case Plate (Pitch Bearing) |
 | 86 Top Plate | 1 | None | Case Top Plate |
 | 86 Base Plate | 1 | None | Bottom Case Plate |
-| pulley_gimbal | 1 | None | 72 Tooth Gimbal Pulley |
+| HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley |
 | USB Bracket | 1 | None | Holds USB in place on Left Plate |
 
 
@@ -70,8 +70,8 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 |   8 |           | M6 x 20 Socket Head Screw | Motor Mounts |
 |   2 |           | M2.5 x 10 Flat Head Screw (Stock) | Power Connector Mount |
 |   2 |           | [5M-15T-20W Pulley](https://a.co/d/b9yMcuO) | Motor Pulley |
-|   1 |           | 465mm long HTD 5M-15W Belt | Pitch Belt - 09W more readily available, sub if desired at your own risk |
-|   1 |           | 380mm long HTD 5M-15W Belt | Roll Belt - 09W more readily available, sub if desired at your own risk |
+|   1 |           | 465mm long HTD 5M-15W Belt | Pitch Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
+|   1 |           | 380mm long HTD 5M-15W Belt | Roll Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
 |   1 |           | 5 Pin Mini Din Connector (Stock)| Stick connector - I used replacement parts from Thrustmaster for a Warthog stick that I bought a long time ago. |
 |   1 |           | [80mm Case Fan](https://www.amazon.com/dp/B00IOIJ4AC) | Parts designed to use standard PC fan screws which are included with this fan. |
 |   1 |           | [E-Stop Switch](https://www.amazon.com/dp/B08B87GJGB) | |
