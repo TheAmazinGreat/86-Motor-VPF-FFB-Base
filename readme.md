@@ -26,7 +26,7 @@ Fusion file only in CAD folder for now, step files TBD. 57 Series also included 
 # Printed Parts
 All STLs should be checked for best orientation in the slicer to minimize supports. Placing the long edge of the case plates in the X direction worked best for my set up.  I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
 
-Necessary Parts for all Gimbal Types
+Necessary Parts for all Gimbal Types, Print these then choose a gimbal to print. Protomaker's original Gimbal is also compatible. 
 | File | Qty | Support | Description |
 |------|-----|---------|-------------|
 | ext_bearing_retainer_x3| 3 | None | Exterior Bearing Retainers |
