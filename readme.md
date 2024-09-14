@@ -61,6 +61,8 @@ TAG Gimbal - Experimental, bearing journals attach with M5 screws to minimize su
 | Main Connector Journal x2 | 2 | None | Stick Connector Journals |
 | 2020Extension_TM_WARTHOG | 1 | Build Plate Only/None | TM Warthog Threads for 2020 Extension |
 
+Mabo Gimbal - This is the orignal gimbal I based the TAG gimbal off of, if you want to print a traditional gimbal that is a bit beefed up but less optimized choose this one. This has both the 2020 extension option and the one piece threaded TM grip attachment for the main stick as an option. Use above reference quantities to determine how much of each STL to print. 
+
 # BOM
 Where possible, all hardware has a McMaster Part # to help indicate correct specifications. BOM updated from Gadroc's where known to be different. (Belts, pulleys, motor mounting screws are correct for 86 Motors)
 
