@@ -75,7 +75,7 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 |  12 | 91292A122 | [M4 x 25 Socket Head Screw](https://www.amazon.com/dp/B0BMQ4WV1V) | Large Pulleys |
 |   3 | 98689A114 | M5 Washer (Stock) | Gimbal Core Joint / Stick Adatper |
 |   2 | 90591A260 | M5 Nut (Stock) | Gimbal Core Joint / Stick Adatper |
-|   1 | 91290A199 | M5 x 60 Socket Head Screw (Stock) | Gimbal Core Joint |
+|   1 | 91290A199 | M5 x 60 Socket Head Screw (Stock) | Gimbal Core Joint M5x50 for TAG GIMBAL |
 |  52 | 94459A130 | [M3 Threaded Inserts](https://www.amazon.com/dp/B0CDH36ZMX) | Case, USB Bracket, Control Board Mount, Stick Connector |
 |  44 | 91263A825 | [M3 x 12 Flat Head Screw](https://www.amazon.com/dp/B07WJKPCZY) | Case Screws, add two more if using printed motor pulleys |
 |   2 | 92095A183 | M3 x 12 Button Head Screw (Stock) | USB Bracket Screws |
