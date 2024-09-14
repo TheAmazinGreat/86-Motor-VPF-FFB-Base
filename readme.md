@@ -26,12 +26,9 @@ Fusion file only in CAD folder for now, step files TBD. 57 Series also included 
 # Printed Parts
 All STLs should be checked for best orientation in the slicer to minimize supports. Placing the long edge of the case plates in the X direction worked best for my set up.  I printed all my parts in eSUN PLA+ with a 0.6mm nozzle, 0.3mm layer height. Adapt as necessary to your printer and filament.
 
+Necessary Parts for all Gimbal Types
 | File | Qty | Support | Description |
 |------|-----|---------|-------------|
-| gimbal_arm_x2 | 2 | Build Plate Only | Gimbal Arms |
-| gimbal_pillow_x4 | 4 | Build Plate Only | Gimbal Pillow Blocks |
-| gimbal_core | 1 | Build Plate Only | Gimbal Core Joint |
-| gimbal_stick | 1 | Build Plate Only | Gimbal Stick Connector |
 | ext_bearing_retainer_x3| 3 | None | Exterior Bearing Retainers |
 | int_bearing_retainer_x8 | 8 | None | Interior Bearing Retainers |
 | control_mount_retainer | 1 | None | Control Mount / Bearing retainer |
@@ -45,6 +42,24 @@ All STLs should be checked for best orientation in the slicer to minimize suppor
 | HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley |
 | USB Bracket | 1 | None | Holds USB in place on Left Plate |
 
+Gadroc's Gimbal
+| File | Qty | Support | Description |
+|------|-----|---------|-------------|
+| gimbal_arm_x2 | 2 | Build Plate Only | Gimbal Arms |
+| gimbal_pillow_x4 | 4 | Build Plate Only | Gimbal Pillow Blocks |
+| gimbal_core | 1 | Build Plate Only | Gimbal Core Joint |
+| gimbal_stick | 1 | Build Plate Only | Gimbal Stick Connector |
+
+TAG Gimbal - Experimental, bearing journals attach with M5 screws to minimize supports.
+| File | Qty | Support | Description |
+|------|-----|---------|-------------|
+| OptiArmFramex2 | 2 | Build Plate Only | Gimbal Arms |
+| GIMBAL_ARM_BEARING_PILLOWx4 | 4 | Build Plate Only | Gimbal Pillow Blocks |
+| OptiCore Main | 1 | None | Gimbal Core Joint |
+| Core Journal x2 | 2 | None | Gimbal Core Joint Bearing Journals |
+| 2020GIMBAL_STICK_CONNECTOR_TAG | 1 | Build Plate Only/None | Gimbal Stick Connector for 2020 Extensions |
+| Main Connector Journal x2 | 2 | None | Stick Connector Journals |
+| 2020Extension_TM_WARTHOG | 1 | Build Plate Only/None | TM Warthog Threads for 2020 Extension |
 
 # BOM
 Where possible, all hardware has a McMaster Part # to help indicate correct specifications. BOM updated from Gadroc's where known to be different. (Belts, pulleys, motor mounting screws are correct for 86 Motors)
