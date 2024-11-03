@@ -1,8 +1,9 @@
-# VPForce Joystick
+# VPForce Joystick with 86BLF03 or 86BLF04 motors
 See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and many of the same other parts. Panels are not interchangeable due to the larger motor size. Panels should be able to be printed on any 3D printer with a bed size equivalent to an Ender3 or larger. 
 
-I've not included a gimbal to remove some confusion around assembly based on some questions I've received. I recommend printing the Protomaker Gimbal (linked below) and following the assembly steps there. Any of the gimbals will work with this project (Protomaker, Gadroc, mrusk, mabo, etc)  
+I've not included a gimbal to remove some confusion around assembly based on some questions I've received. I recommend printing the Protomaker gimbal (linked below) and following the assembly steps there. Any of the gimbals will work with this project (Protomaker, Gadroc, mrusk, mabo, etc)  
 
+You will also need to purchase a 2x86BLF03 + USBkit or a 2x86BLF04 + USBkit from VPForce. The 86BLF04 will be the strongest option but either of them will fit this case. 
 
 # Credits
 Original authors are listed below:
