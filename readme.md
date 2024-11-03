@@ -42,7 +42,7 @@ Necessary Parts for all Gimbal Types, Print these then choose a Gear Ratio to pr
 | HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley |
 | USB Bracket | 1 | None | Holds USB in place on Left Plate |
 
-//Gadroc's Gimbal
+<!--Gadroc's Gimbal
 | File | Qty | Support | Description |
 |------|-----|---------|-------------|
 | gimbal_arm_x2 | 2 | Build Plate Only | Gimbal Arms |
@@ -62,7 +62,7 @@ TAG Gimbal - Experimental, bearing journals attach with M5 screws to minimize su
 | 2020Extension_TM_WARTHOG | 1 | Build Plate Only/None | TM Warthog Threads for 2020 Extension |
 
 Mabo Gimbal - This is the orignal gimbal I based the TAG gimbal off of, if you want to print a traditional gimbal that is a bit beefed up but less optimized choose this one. This has both the 2020 extension option and the one piece threaded TM grip attachment for the main stick as an option. Use above reference quantities to determine how much of each STL to print. 
-
+-->
 # BOM
 Where possible, all hardware has a McMaster Part # to help indicate correct specifications. BOM updated from Gadroc's where known to be different. (Belts, pulleys, motor mounting screws are correct for 86 Motors)
 
