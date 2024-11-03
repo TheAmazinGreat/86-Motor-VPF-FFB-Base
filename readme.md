@@ -1,7 +1,7 @@
 # VPForce Joystick
 See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and many of the same other parts. Panels are not interchangeable due to the larger motor size. Panels should be able to be printed on any 3D printer with a bed size equivalent to an Ender3 or larger. 
 
-I've not included a Gimbal to remove some confusion around assembly based on some questions I've received. I recommend printing the Protomaker Gimbal (linked below) and following the assembly steps there. Any of the gimbals will work with this project (Protomaker, Gadroc, mrusk, mabo, etc)  
+I've not included a gimbal to remove some confusion around assembly based on some questions I've received. I recommend printing the Protomaker Gimbal (linked below) and following the assembly steps there. Any of the gimbals will work with this project (Protomaker, Gadroc, mrusk, mabo, etc)  
 
 
 # Credits
@@ -45,6 +45,10 @@ Gear Ratio Options
 |------|-----|---------|-------------|
 | HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley 1.7x Standard Rhino USE BELTS 465mm/380mm |
 | HTD-5M-72 Pulley | 2 | None | 72 Tooth Gimbal Pulley 2.0x Standard Rhino USE BELTS 500mm/420mm |
+
+| Print and Assemble the Protomaker G=gimbal or another of your choice (link to Protomaker above) |
+|-------------------------------------------------------------------------------------------------|
+
 
 <!--Gadroc's Gimbal
 | File | Qty | Support | Description |
