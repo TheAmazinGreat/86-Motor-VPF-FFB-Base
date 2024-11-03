@@ -46,8 +46,8 @@ Gear Ratio Options
 | HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley 1.7x Standard Rhino USE BELTS 465mm/380mm |
 | HTD-5M-72 Pulley | 2 | None | 72 Tooth Gimbal Pulley 2.0x Standard Rhino USE BELTS 500mm/420mm |
 
-| Print and Assemble the Protomaker G=gimbal or another of your choice (link to Protomaker above) |
-|-------------------------------------------------------------------------------------------------|
+| Print and Assemble the Protomaker gimbal or another of your choice (link to Protomaker above) |
+|-----------------------------------------------------------------------------------------------|
 
 
 <!--Gadroc's Gimbal
