@@ -5,6 +5,9 @@ I've not included a gimbal to remove some confusion around assembly based on som
 
 You will also need to purchase a 2x86BLF03 + USBkit or a 2x86BLF04 + USBkit from VPForce. The 86BLF04 will be the strongest option but either of them will fit this case. 
 
+There are two options for gear ratios, you need to chose the one you would like below and buy the appropriate size belts. 60T/15T will be 1.7x the standard Rhino peak torque, 72T/15T will be 2.0x the standard Rhino peak torque. 
+
+
 # Credits
 Original authors are listed below:
 
@@ -104,7 +107,7 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 
 CHOOSE ONE PAIR of these based on the Gimbal Pulley you have chosen to print. 
 | Qty | PULLEY SIZE  | Name | Notes |
-|-----|-----------|------|-------|
+|-----|--------------|------|-------|
 |   1 | 60T | 465mm long HTD 5M-15W Belt | Pitch Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
 |   1 | 60T | 380mm long HTD 5M-15W Belt | Roll Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
 |   1 | 72T | 500mm long HTD 5M-15W Belt | Pitch Belt - Belts Sized for 15T Motor/72T Gimbal Pulleys |
