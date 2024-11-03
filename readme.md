@@ -1,7 +1,7 @@
 # VPForce Joystick
 See originial Gadroc design for credits and design change history. This version is modified to fit the larger motors using the same gimbal and many of the same other parts. Panels are not interchangeable due to the larger motor size. Panels should be able to be printed on any 3D printer with a bed size equivalent to an Ender3 or larger. 
 
-I've included a second option for a gimbal to be printed in several pieces without supports. This gimbal is experimental and if there are concerns about strength, I recommend printing Gadroc's gimbal or one of the orignal protomaker/Mabo designs. 
+I've not included a Gimbal to remove some confusion around assembly based on some questions I've received. I recommend printing the Protomaker Gimbal (linked below) and following the assembly steps there. Any of the gimbals will work with this project (Protomaker, Gadroc, mrusk, mabo, etc)  
 
 
 # Credits
@@ -16,7 +16,6 @@ Original authors are listed below:
 * 15 deg throw limiter in CAD file is optional. Export STLs if you want it or create a different throw limiter using the tool on the VFP discord.
 * Boot clamp has not been tested yet. Design changes may be necessary. (No change from Gadroc, removed STLs but it is in the CAD file)
 * Update BOM for minor hardware, screws, etc. Most of the hardware should be the same as the original Gadroc design, the major difference will be quantities and M6 bolts for mounting the 86 motors.
-* Export STLs for the TAG gimbal.
 * Add CAD step files.
 * 
 
@@ -39,8 +38,13 @@ Necessary Parts for all Gimbal Types, Print these then choose a Gear Ratio to pr
 | 86 Left Plate | 1 | None | Left Case Plate (Pitch Bearing) |
 | 86 Top Plate | 1 | None | Case Top Plate |
 | 86 Base Plate | 1 | None | Bottom Case Plate |
-| HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley |
 | USB Bracket | 1 | None | Holds USB in place on Left Plate |
+
+Gear Ratio Options
+| File | Qty | Support | Description |
+|------|-----|---------|-------------|
+| HTD-5M-60 Pulley | 2 | None | 60 Tooth Gimbal Pulley 1.7x Standard Rhino USE BELTS 465mm/380mm |
+| HTD-5M-72 Pulley | 2 | None | 72 Tooth Gimbal Pulley 2.0x Standard Rhino USE BELTS 500mm/420mm |
 
 <!--Gadroc's Gimbal
 | File | Qty | Support | Description |
@@ -87,13 +91,19 @@ Where possible, all hardware has a McMaster Part # to help indicate correct spec
 |   8 |           | M6 x 20 Socket Head Screw | Motor Mounts |
 |   2 |           | M2.5 x 10 Flat Head Screw (Stock) | Power Connector Mount |
 |   2 |           | [5M-15T-20W Pulley](https://a.co/d/b9yMcuO) | Motor Pulley |
-|   1 |           | 465mm long HTD 5M-15W Belt | Pitch Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
-|   1 |           | 380mm long HTD 5M-15W Belt | Roll Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
 |   1 |           | 5 Pin Mini Din Connector (Stock)| Stick connector - I used replacement parts from Thrustmaster for a Warthog stick that I bought a long time ago. |
 |   1 |           | [80mm Case Fan](https://www.amazon.com/dp/B00IOIJ4AC) | Parts designed to use standard PC fan screws which are included with this fan. |
-|   1 |           | [E-Stop Switch](https://www.amazon.com/dp/B08B87GJGB) | |
+|   1 |           | [E-Stop Switch](https://a.co/d/37DwknT) | |
 |   2 |           | [10k Type B Linear Potentiometer](https://www.amazon.com/dp/B09897HR3C) |
 |   1 |           | [XT60E-M Connector](https://www.amazon.com/dp/B07VV92WZS) | |
+
+CHOOSE ONE PAIR of these based on the Gimbal Pulley you have chosen to print. 
+| Qty | PULLEY SIZE  | Name | Notes |
+|-----|-----------|------|-------|
+|   1 | 60T | 465mm long HTD 5M-15W Belt | Pitch Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
+|   1 | 60T | 380mm long HTD 5M-15W Belt | Roll Belt - Belts Sized for 15T Motor/60T Gimbal Pulleys |
+|   1 | 72T | 500mm long HTD 5M-15W Belt | Pitch Belt - Belts Sized for 15T Motor/72T Gimbal Pulleys |
+|   1 | 72T | 420mm long HTD 5M-15W Belt | Roll Belt - Belts Sized for 15T Motor/72T Gimbal Pulleys |
 
 # Assembly
 Since this is a very close derivative of protmakers work his assembly guide should be enough to figure out how to build using these parts.
