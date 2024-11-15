@@ -88,7 +88,7 @@ Reference Protomaker BOM and assembly instructions for additional information on
 |  12 | M4 x 35 Button Head Screw | Pulley Screws |
 |  12 | M4 Nut | Pulley Screws |
 |  24 | M4 Washer | Pulley Screws |
-|   4 | [M5x19mm Washer](https://www.amazon.com/dp/B0B8SPK65J) | Gimbal Washers |
+|   4 | M4x19mm Washer | Gimbal Washers |
 |  12 | [M4 x 25 Socket Head Screw](https://www.amazon.com/dp/B0BMQ4WV1V) | Large Pulleys |
 |   3 | M5 Washer (Stock) | Gimbal Core Joint / Stick Adatper |
 |   2 | M5 Nut (Stock) | Gimbal Core Joint / Stick Adatper |
