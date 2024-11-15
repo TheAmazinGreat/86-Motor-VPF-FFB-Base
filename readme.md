@@ -102,9 +102,9 @@ Reference Protomaker BOM and assembly instructions for additional information on
 |   4 | M3 x 5 Button Head Screws (Stock) | Control Board Screws |
 |   8 | M6 x 20 Socket Head Screw | Motor Mounts |
 |   2 | [5M-15T-20W Pulley](https://a.co/d/b9yMcuO) | Motor Pulley |
-|   1 | 5 Pin Mini Din Connector (Stock)| Stick connector - I used replacement parts from Thrustmaster for a Warthog stick that I bought a long time ago. |
-|   1 | [80mm Case Fan](https://a.co/d/6VjeeIf) | Parts designed to use standard PC fan screws which are included with this fan. |
-|   1 | [E-Stop Switch](https://a.co/d/37DwknT) | |
+|   1 | 5 Pin Mini Din Connector (Stock)| Stick connector - I sourced from digikey |
+|   1 | [80mm Case Fan](https://a.co/d/6VjeeIf) | Parts designed to use screws which are included with this fan. |
+|   1 | [E-Stop Switch](https://a.co/d/37DwknT) | Different from most BOMs - 10A rated for larger motors |
 |   2 | [10k Type B Linear Potentiometer](https://a.co/d/jhRPIQb) |
 |   1 | [XT60E-M Connector](https://a.co/d/5N06VCB) | Comes with screws to attach to panel |
 |   1 | [XT60-F Connector](https://a.co/d/5WA5z3b) | Optional, if your power supply does not have one already |
