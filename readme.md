@@ -84,12 +84,15 @@ Reference Protomaker BOM and assembly instructions for additional information on
 |   8 | [6802-2RS Bearings](https://www.amazon.com/dp/B0CGM2CHB8) | Gimbal Bearings |
 |   2 | [F625ZZ Bearings](https://www.amazon.com/dp/B07Z3DXF14) | Stick Adatper Bearings |
 | 100 | [M4 Threaded Inserts](https://www.amazon.com/dp/B08T9TXS9S) | Various, you won't use all of them |
-|  10 | [M4 x 12 Button Head Screw](https://www.amazon.com/dp/B09T9VFY5J) | Pulley Screws |
-|   4 | [19mm Washer](https://www.amazon.com/dp/B0B8SPK65J) | Gimbal Washers |
+|  12 | M4 x 35 Button Head Screw | Pulley Screws |
+|  12 | M4 Nut | Pulley Screws |
+|  24 | M4 Washer | Pulley Screws |
+|   4 | [M5x19mm Washer](https://www.amazon.com/dp/B0B8SPK65J) | Gimbal Washers |
 |  12 | [M4 x 25 Socket Head Screw](https://www.amazon.com/dp/B0BMQ4WV1V) | Large Pulleys |
 |   3 | M5 Washer (Stock) | Gimbal Core Joint / Stick Adatper |
 |   2 | M5 Nut (Stock) | Gimbal Core Joint / Stick Adatper |
-|   1 | M5 x 60 Socket Head Screw (Stock) | Gimbal Core Joint M5x50 for TAG GIMBAL |
+|   1 | M5 x 60 Socket Head Screw (Stock) | Gimbal Core Joint |
+|  12 | M5 x 10 Cap Screw (Stock) | Gimbal Core/Stick Connector Pillow Block Screws |
 | 100 | [M3 Threaded Inserts](https://www.amazon.com/dp/B0CDH36ZMX) | Case, USB Bracket, Control Board Mount, Stick Connector, you won't use all of them. |
 |  80 | [M3 x 12 Flat Head Screw](https://www.amazon.com/dp/B07WJKPCZY) | Case Screws, you won't use all of them |
 |   2 | M3 x 12 Button Head Screw (Stock) | USB Bracket Screws |
