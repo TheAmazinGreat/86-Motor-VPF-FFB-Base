@@ -92,7 +92,8 @@ Reference Protomaker BOM and assembly instructions for additional information on
 |   3 | M5 Washer (Stock) | Gimbal Core Joint / Stick Adatper |
 |   2 | M5 Nut (Stock) | Gimbal Core Joint / Stick Adatper |
 |   1 | M5 x 60 Socket Head Screw (Stock) | Gimbal Core Joint |
-|  12 | M5 x 10 Cap Screw (Stock) | Gimbal Core/Stick Connector Pillow Block Screws |
+|  12 | M4 x 10 Button Head Screw (Stock) | 6802 Bearing Retainer Screws with 19mm Washers |
+|  12 | M5 x 10 Button Head Screw (Stock) | Pillow Block to Gimbal Arm Attachment Screws |
 | 100 | [M3 Threaded Inserts](https://www.amazon.com/dp/B0CDH36ZMX) | Case, USB Bracket, Control Board Mount, Stick Connector, you won't use all of them. |
 |  80 | [M3 x 12 Flat Head Screw](https://www.amazon.com/dp/B07WJKPCZY) | Case Screws, you won't use all of them |
 |   2 | M3 x 12 Button Head Screw (Stock) | USB Bracket Screws |
