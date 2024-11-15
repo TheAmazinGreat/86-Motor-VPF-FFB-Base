@@ -76,7 +76,8 @@ TAG Gimbal - Experimental, bearing journals attach with M5 screws to minimize su
 Mabo Gimbal - This is the orignal gimbal I based the TAG gimbal off of, if you want to print a traditional gimbal that is a bit beefed up but less optimized choose this one. This has both the 2020 extension option and the one piece threaded TM grip attachment for the main stick as an option. Use above reference quantities to determine how much of each STL to print. 
 -->
 # BOM
-Reference Protomaker BOM and assembly instructions for additional information on part usage. BOM updated from Gadroc's where known to be different. (Belts, pulleys, motor mounting screws are correct for 86 Motors)
+Reference Protomaker BOM and assembly instructions for additional information on part usage. BOM updated from Protomaker's where known to be different. (Belts, pulleys, motor mounting screws are correct for 86 Motors). Due to bulk quantities from Amazon links you may end up with hardware left over, organize them and save them for your next project!
+
 
 | Qty | Name | Notes |
 |-----|------|-------|
