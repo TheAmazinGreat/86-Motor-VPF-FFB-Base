@@ -17,7 +17,7 @@ Original authors are listed below:
 * [Gadroc](https://github.com/Gadroc/vpforce-ffb-joystick) - Basis for modifications
 
 # To be done:
-* 15 deg throw limiter in CAD file is optional. Export STLs if you want it or create a different throw limiter using the tool on the VPF discord. VPF parametric limiter is not compatible without slight modofication, fix TBD
+* 15 deg throw limiter in CAD file is optional. Export STLs if you want it or create a different throw limiter using the tool on the VPF discord. VPF parametric limiter requires slight modification, fix TBD
 * Boot clamp has not been tested yet. Design changes may be necessary. (No change from Gadroc, removed STLs but it is in the CAD file)
 * Add CAD step files.
 * 
